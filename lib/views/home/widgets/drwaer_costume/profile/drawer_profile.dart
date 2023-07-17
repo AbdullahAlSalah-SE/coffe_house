@@ -22,10 +22,10 @@ class Profile_drawer extends StatelessWidget {
                         image: AssetImage(app_images.nidd)))),
             Column(
               children: [
-                Text('eivor'),
+                Text('Coffee House'),
                 AppDime.md.verticalSpace,
                 Text(
-                  'amane.z@gmail.com',
+                  'by Abdullah Alsalah',
                   maxLines: 1,
                   overflow: TextOverflow.ellipsis,
                 ),
